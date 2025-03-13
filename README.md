@@ -91,7 +91,7 @@ This project is licensed under the MIT License.
 
 🌐 Live Demo
 Check out the live version of the quiz app here:
-👉 Live Demo (https://lakshmipriyarajaram.github.io/Quiz-Application)
+👉 Live Demo (https://lakshmipriyarajaram.github.io/Quiz-Application/)
 
 🎉 Happy Coding! 🚀
 
